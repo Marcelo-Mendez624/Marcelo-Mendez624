@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Mendez
 - 👀 I’m interested in make games in Unreal engine 4
-- 🌱 I’m currently learning about C++ ability system
+- 🌱 I’m currently learning about C++ gameplay ability system
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
