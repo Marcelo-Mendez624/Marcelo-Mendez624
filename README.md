@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Marcelo Mendez
-- 👀 I’m interested in make games in Unreal engine 4
-- 🌱 I’m currently learning about C++ 
+- 🌱 I’m currently learning about how to make a game engine
+- 🏠  I'm from Uruguay
+- 🎮 I’m a indie videogame developer
+
 
 <!---
 Marcelo-Mendez624/Marcelo-Mendez624 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
