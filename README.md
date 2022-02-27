@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Marcelo Mendez
-- 🌱 I’m currently learning about how to make a game engine
 - 🏠  I'm from Uruguay
-- 🎮 I’m a indie videogame developer
+- 🎮 I'm a gameplay and AI programmer, I use unreal engine for 4 years
 
 
 <!---
