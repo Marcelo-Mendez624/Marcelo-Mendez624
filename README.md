@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelo Mendez
 - 🏠  I'm from Uruguay
-- 🎮 I'm a gameplay I use Unreal engine for 5 years
+- 🎮 I'm a game developer
 - :link: My linkedin https://www.linkedin.com/in/marcelo-alessandro-mendez-noria-8b1b0a226/
 
 
