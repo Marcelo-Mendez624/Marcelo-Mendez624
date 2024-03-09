@@ -23,7 +23,7 @@ I am working on a project that aims to create a copy of Beat Saber, a VR rhythm 
 you can check out the source here: https://github.com/Marcelo-Mendez624/VR-Playground
 
 
-![VR Playground](https://i9.ytimg.com/vi_webp/pHTJ1zqEfFI/mq2.webp?sqp=CLyA4K0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQygTMA8=&rs=AOn4CLC9UvpKInhKXiSUr9lS9r1fT6CC7A)
+
 
 
 
@@ -32,7 +32,6 @@ you can check out the source here: https://github.com/Marcelo-Mendez624/VR-Playg
 I took an Unreal Engine C++ course called "Professional Game Development in C++ and Unreal Engine". I learned how to create a third-person action game from scratch using C++ and Unreal Engine. The course taught me the essential concepts and techniques of C++ programming within the Unreal Engine environment. The course also focused on best practices and building a solid framework for professional game development. \
 You can check out the source here:https://github.com/Marcelo-Mendez624/ActionRoguelike
 
-![Screenshoot tom looman course](https://i9.ytimg.com/vi_webp/xjQaPhMqEPw/mq2.webp?sqp=CLyA4K0G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFAgWChlMA8=&rs=AOn4CLBZR1cvffIxkjyx3QvQJG1-FTocTQ)
 
 
 ## 🔗 Links
