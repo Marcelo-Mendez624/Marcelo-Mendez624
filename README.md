@@ -8,7 +8,7 @@ const marcelo = {
   pronouns: "he" | "him" \
   code: [C++, C#, Javascript, HTML, CSS] \
   tools: [Unreal Engine, Unity, Photoshop, Rider] \
-  games: ["Dead by Daylight", "Resident Evil", "Assassins cread IV"] \
+  my favorite games: ["Dead by Daylight", "Resident Evil", "Assassins cread IV"] \
   education: "Facultad de ingenieria Uruguay",
 }
 
