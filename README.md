@@ -6,7 +6,7 @@
 ## 🚀 About Me
 const marcelo = {
   pronouns: "he" | "him" \
-  code: [C++, C#, Javascript, HTML, CSS] \
+  code: [C++, C#, Javascript, Python, HTML, CSS] \
   tools: [Unreal Engine, Unity, Photoshop, Rider] \
   my favorite games: ["Dead by Daylight", "Resident Evil", "Assassins cread IV"] \
   education: "Facultad de ingenieria Uruguay",
